@@ -79,15 +79,5 @@ namespace MinecraftOPHack.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap gfdghfghdfghdfghdfgh {
-            get {
-                object obj = ResourceManager.GetObject("gfdghfghdfghdfghdfgh", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

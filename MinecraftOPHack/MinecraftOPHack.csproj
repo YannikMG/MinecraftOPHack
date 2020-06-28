@@ -112,28 +112,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\^820FA9D30F27B3D2D9AE11035C98A4AC00B0BA0EA192996111^pimgpsh_thumbnail_win_distr.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\^C0EEC0491C89BC0F19CCB410918E39DAFE99E56303CCBB3A04^pimgpsh_thumbnail_win_distr.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\backround.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2 %281%29.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\222.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\gfdghfghdfghdfghdfgh.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="MinecraftLauncher_101.ico" />
+    <None Include="Resources\backround %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
