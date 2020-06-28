@@ -71,7 +71,7 @@
             this.label1.Size = new System.Drawing.Size(50, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "Versions:";
-            this.toolTip1.SetToolTip(this.label1, "Version");
+            this.toolTip1.SetToolTip(this.label1, "Currently it only works with the version 1.15.2");
             // 
             // textBox1
             // 
